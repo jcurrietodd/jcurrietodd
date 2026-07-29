@@ -22,13 +22,13 @@ I'm a business analytics graduate student at Wake Forest University
 with a background in turning complex data into decisions that actually 
 matter. Before graduate school I spent two years doing applied 
 analytics work for government and community organizations in 
-Spartanburg, SC — mapping food insecurity across census tracts, 
+Spartanburg, SC; mapping food insecurity across census tracts, 
 assessing credit risk for small business loan applicants, and 
 presenting quantitative findings directly to government officials 
 whose policy decisions depended on getting the analysis right.
 
 I work in R, Python, SQL, Tableau, ArcGIS, and Power BI. I'm drawn 
-to roles where the analysis has real stakes — defense consulting, 
+to roles where the analysis has real stakes: defense consulting, 
 financial services, and government-adjacent work. US citizen, 
 clearance eligible, targeting full-time roles starting May 2027.
 
@@ -55,4 +55,4 @@ clearance eligible, targeting full-time roles starting May 2027.
 
 📧 jcurrietodd@gmail.com  
 💼 [linkedin.com/in/joshuac-todd](https://linkedin.com/in/joshuac-todd)  
-📍 Winston-Salem, NC · Targeting Charleston, SC
+📍 Winston-Salem, NC · Targeting Charleston, SC and Raleigh, NC
