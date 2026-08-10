@@ -1,7 +1,7 @@
 <div align="center">
 
 # Joshua C. Todd
-### Analytics for Decisions That Matter — Defense · Finance · Government
+### Analytics for Decisions That Matter: Defense · Finance · Government
 
 **MSBA Candidate · Wake Forest University · May 2027**
 
