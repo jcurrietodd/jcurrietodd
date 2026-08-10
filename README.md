@@ -5,11 +5,12 @@
 
 **MSBA Candidate · Wake Forest University · May 2027**
 
+[![Portfolio Site](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO_SITE-jcurrietodd.github.io-1e2327?style=for-the-badge&labelColor=E97627)](https://jcurrietodd.github.io/)
+
 ![Status](https://img.shields.io/badge/Status-Actively%20Interviewing-2ea44f?style=for-the-badge)
 ![Clearance](https://img.shields.io/badge/Clearance-Eligible-1e2327?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based-Winston--Salem%20%E2%86%92%20Charleston%20%2F%20Raleigh-blue?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Site-Visit-1e2327?style=for-the-badge)](https://jcurrietodd.github.io/)
 [![Resume](https://img.shields.io/badge/📄_Resume-View-E97627?style=for-the-badge)](https://github.com/jcurrietodd/jcurrietodd/blob/main/Business_Analytics_Resume_JT.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuactodd1)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
