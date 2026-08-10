@@ -39,7 +39,7 @@ clearance eligible, targeting full-time roles starting May 2027.
 | Project | Tools | What It Is |
 |:---|:---|:---|
 | [Government & Community Analytics](https://github.com/jcurrietodd/government-community-analytics) | R · Tableau · ArcGIS · SQL | Geospatial dashboards mapping food insecurity and economic mobility across Spartanburg County for government stakeholders |
-| [Education-to-Employment Pipeline](https://github.com/jcurrietodd/deducation-employment-pipeline-thesis) | RStudio · OLS Regression · IPEDS · BLS | Honors thesis — multi-stage regression framework analyzing how race and institutional type shape labor market outcomes |
+| [Education-to-Employment Pipeline](https://github.com/jcurrietodd/education-employment-pipeline-thesis) | RStudio · OLS Regression · IPEDS · BLS | Honors thesis — multi-stage regression framework analyzing how race and institutional type shape labor market outcomes |
 
 ---
 
