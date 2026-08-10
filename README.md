@@ -1,58 +1,50 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/Business%20Analyst-000000?style=for-the-badge&labelColor=000000" height="28">
+
 # Joshua C. Todd
-### Analytics for Decisions That Matter — Defense · Finance · Government
 
-**MSBA Candidate · Wake Forest University · May 2027**
+**Analytics for Decisions That Matter**
+Defense · Finance · Government
 
-![Status](https://img.shields.io/badge/Status-Actively%20Interviewing-2ea44f?style=for-the-badge)
-![Clearance](https://img.shields.io/badge/Clearance-Eligible-1e2327?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based-Winston--Salem%20%E2%86%92%20Charleston-blue?style=for-the-badge)
+<br>
 
-[![Resume](https://img.shields.io/badge/📄_Resume-View-E97627?style=for-the-badge)](https://github.com/jcurrietodd/jcurrietodd/blob/main/Business_Analytics_Resume_JT.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuactodd1)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_RESUME-E97627?style=for-the-badge&labelColor=E97627&color=1a1a1a)](https://github.com/jcurrietodd/jcurrietodd/blob/main/Business_Analytics_Resume_JT.pdf)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuactodd1)
+[![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
 
 </div>
 
----
+<br>
 
-## About
-
-I'm a business analytics graduate student at Wake Forest University with a background in turning complex data into decisions that actually matter. Before graduate school I spent two years doing applied analytics for government and community organizations in Spartanburg, SC — mapping food insecurity across census tracts, assessing credit risk for small business loan applicants, and presenting findings directly to government officials whose policy decisions depended on the analysis being right.
-
-I work in R, Python, SQL, Tableau, ArcGIS, and Power BI, and I'm drawn to roles where the analysis has real stakes: defense consulting, financial services, and government-adjacent work. **US citizen, clearance eligible.**
-
----
-
-## Portfolio
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-<a href="https://github.com/jcurrietodd/government-community-analytics">
-<img src="https://raw.githubusercontent.com/jcurrietodd/government-community-analytics/main/pillar-1-rewarding-work.png" width="100%">
-</a>
-
-**[Government & Community Analytics](https://github.com/jcurrietodd/government-community-analytics)**
-
-Geospatial dashboards mapping food insecurity and economic mobility across Spartanburg County — built for and presented directly to government stakeholders.
-
-`R` `Tableau` `ArcGIS` `SQL` `Excel`
+**🎓 MSBA**
+Wake Forest
+May 2027
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-<a href="https://github.com/jcurrietodd/education-employment-pipeline-thesis">
-<img src="https://img.shields.io/badge/Honors_Thesis-Magna_Cum_Laude-8B0000?style=for-the-badge" width="100%">
-</a>
+**🛡️ Clearance**
+US Citizen
+Eligible
 
-**[Education-to-Employment Pipeline](https://github.com/jcurrietodd/education-employment-pipeline-thesis)**
+</td>
+<td align="center" width="25%">
 
-Honors thesis — 4-stage OLS regression framework analyzing how race and institutional type shape labor market outcomes, using IPEDS and BLS federal data.
+**📊 Track Record**
+8 Dashboards
+24 Indicators
 
-`RStudio` `OLS Regression` `IPEDS` `BLS`
+</td>
+<td align="center" width="25%">
+
+**📍 Based**
+Winston-Salem
+→ Charleston · Raleigh
 
 </td>
 </tr>
@@ -60,22 +52,106 @@ Honors thesis — 4-stage OLS regression framework analyzing how race and instit
 
 ---
 
-## What I'm Building
+### About
 
-| Status | Project |
-|:---:|---|
-| 🔨 Finalized | Federal contract spending analysis in Python using USASpending.gov |
-| 📊 Finalized | Diamonds dataset statistical analysis and probability modeling |
-| 📁 Ongoing | More projects as I progress through my MSBA at Wake Forest |
+I'm a business analytics graduate student at Wake Forest University with a background in turning complex data into decisions that actually matter. Before graduate school I spent two years doing applied analytics for government and community organizations in Spartanburg, SC — mapping food insecurity across census tracts, assessing credit risk for small business loan applicants, and presenting findings directly to government officials whose policy decisions depended on the analysis being right.
+
+I'm drawn to roles where the analysis has real stakes: defense consulting, financial services, and government-adjacent work.
+
+<br>
+
+### Skills
+
+<table width="100%">
+<tr>
+<th align="left" width="33%">Programming & Data</th>
+<th align="left" width="33%">Visualization & GIS</th>
+<th align="left" width="34%">Domain</th>
+</tr>
+<tr valign="top">
+<td>
+
+`Python`
+`R / RStudio`
+`SQL`
+
+</td>
+<td>
+
+`Tableau`
+`Power BI`
+`ArcGIS`
+
+</td>
+<td>
+
+`Risk Assessment`
+`Policy Analysis`
+`Econometrics`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect
+### Portfolio
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/jcurrietodd/government-community-analytics">
+<img src="https://raw.githubusercontent.com/jcurrietodd/government-community-analytics/main/pillar-1-rewarding-work.png" width="100%">
+</a>
+
+<br>
+
+**Government & Community Analytics**
+`R` `Tableau` `ArcGIS` `SQL` `Excel`
+
+Geospatial dashboards mapping food insecurity and economic mobility across Spartanburg County — presented directly to government stakeholders.
+
+> 8 dashboards · 3 geographic levels · 24 indicators tracked
+
+**[→ View Repository](https://github.com/jcurrietodd/government-community-analytics)**
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/jcurrietodd/education-employment-pipeline-thesis">
+<img src="https://img.shields.io/badge/Honors_Thesis-8B0000?style=for-the-badge&labelColor=1a1a1a" width="100%" height="200">
+</a>
+
+<br>
+
+**Education-to-Employment Pipeline**
+`RStudio` `OLS Regression` `IPEDS` `BLS`
+
+Honors thesis — 4-stage regression framework analyzing how race and institutional type shape labor market outcomes.
+
+> Magna Cum Laude · Wofford College · Jan 2026
+
+**[→ View Repository](https://github.com/jcurrietodd/education-employment-pipeline-thesis)**
+
+</td>
+</tr>
+</table>
+
+---
+
+### Currently Building
+
+| | |
+|:---:|---|
+| ✅ | Federal contract spending analysis in Python — USASpending.gov |
+| ✅ | Diamonds dataset statistical analysis and probability modeling |
+| 🔄 | More projects as I progress through my MSBA at Wake Forest |
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/toddj26%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fjoshuactodd1-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuactodd1)
-[![Location](https://img.shields.io/badge/📍_Winston--Salem%2C_NC_·_Targeting_Charleston%2C_SC and Raliegh%2C_NC-lightgrey?style=flat-square)](#)
+**Let's connect** — [Resume](https://github.com/jcurrietodd/jcurrietodd/blob/main/Business_Analytics_Resume_JT.pdf) · [LinkedIn](https://linkedin.com/in/joshuactodd1) · [Email](mailto:toddj26@gmail.com)
 
 </div>
