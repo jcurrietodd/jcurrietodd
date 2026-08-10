@@ -9,7 +9,7 @@
 ![Clearance](https://img.shields.io/badge/Clearance-Eligible-1e2327?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based-Winston--Salem%20%E2%86%92%20Charleston-blue?style=for-the-badge)
 
-[![Resume](https://img.shields.io/badge/📄_Resume-View-E97627?style=for-the-badge)](Business_Analytics_Resume_JT.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-View-E97627?style=for-the-badge)](https://github.com/jcurrietodd/jcurrietodd/blob/main/Business_Analytics_Resume_JT.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuactodd1)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
 
@@ -21,7 +21,7 @@
 
 I'm a business analytics graduate student at Wake Forest University with a background in turning complex data into decisions that actually matter. Before graduate school I spent two years doing applied analytics for government and community organizations in Spartanburg, SC — mapping food insecurity across census tracts, assessing credit risk for small business loan applicants, and presenting findings directly to government officials whose policy decisions depended on the analysis being right.
 
-I work in R, Python, SQL, Tableau, ArcGIS, and Power BI, and I'm drawn to roles where the analysis has real stakes: defense consulting, financial services, and government-adjacent work. **US citizen, clearance eligible, targeting full-time roles starting May 2027.**
+I work in R, Python, SQL, Tableau, ArcGIS, and Power BI, and I'm drawn to roles where the analysis has real stakes: defense consulting, financial services, and government-adjacent work. **US citizen, clearance eligible.**
 
 ---
 
@@ -64,8 +64,8 @@ Honors thesis — 4-stage OLS regression framework analyzing how race and instit
 
 | Status | Project |
 |:---:|---|
-| 🔨 In Progress | Federal contract spending analysis in Python using USASpending.gov |
-| 📊 In Progress | Diamonds dataset statistical analysis and probability modeling |
+| 🔨 Finalized | Federal contract spending analysis in Python using USASpending.gov |
+| 📊 Finalized | Diamonds dataset statistical analysis and probability modeling |
 | 📁 Ongoing | More projects as I progress through my MSBA at Wake Forest |
 
 ---
@@ -76,6 +76,6 @@ Honors thesis — 4-stage OLS regression framework analyzing how race and instit
 
 [![Email](https://img.shields.io/badge/toddj26%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fjoshuactodd1-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuactodd1)
-[![Location](https://img.shields.io/badge/📍_Winston--Salem%2C_NC_·_Targeting_Charleston%2C_SC-lightgrey?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/📍_Winston--Salem%2C_NC_·_Targeting_Charleston%2C_SC and Raliegh%2C_NC-lightgrey?style=flat-square)](#)
 
 </div>
