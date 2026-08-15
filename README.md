@@ -76,7 +76,7 @@ Honors thesis — 4-stage OLS regression framework analyzing how race and instit
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/toddj26%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
+[![Email](https://img.shields.io/badge/toddj26%40wfu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fjoshuactodd1-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuactodd1)
 [![Location](https://img.shields.io/badge/📍_Winston--Salem%2C_NC_·_Charleston%2C_SC_·_Raleigh%2C_NC-lightgrey?style=flat-square)](#)
 
