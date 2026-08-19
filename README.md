@@ -1,7 +1,7 @@
 <div align="center">
 
 # Joshua C. Todd
-### Analytics for Decisions That Matter: Defense · Finance · Government
+### Analytics for Decisions That Matter: Strategy · Finance · Government
 **MSBA Candidate · Wake Forest University · May 2027**
 
 [![Portfolio Site](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO_SITE-jcurrietodd.github.io-1e2327?style=for-the-badge&labelColor=E97627)](https://jcurrietodd.github.io/)
