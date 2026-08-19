@@ -66,18 +66,18 @@ Honors thesis — 4-stage OLS regression framework analyzing how race and instit
 
 Semester-long statistical investigation of diamond pricing across 49,835 observations — covering descriptive statistics, probability modeling, hypothesis testing, and OLS regression. R² = 0.9014.
 
-`Excel` `OLS Regression` `Probability` `Hypothesis Testing` `FP&A`
+`Excel` `OLS Regression` `Probability` `Hypothesis Testing` `Statistics`
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/In_Progress-Federal_Spending_Analysis-2ea44f?style=for-the-badge" width="100%">
+<img src="https://img.shields.io/badge/Coming_Soon-Arsenal_Premier_League_Analysis-EF0107?style=for-the-badge&labelColor=063672" width="100%">
 
-**Federal Contract Spending Analysis** *(In Progress)*
+**Arsenal Premier League Strategy Analysis** *(Coming Soon)*
 
-Python analysis of federal contract awards in the Charleston, SC metro using USASpending.gov — identifying agency spending patterns and defense vendor concentration.
+Data-driven breakdown of the tactical and statistical factors behind Arsenal's Premier League title — analyzing squad performance, match data, and the decisions that ended a 20-year wait.
 
-`Python` `pandas` `USASpending.gov` `Defense Analytics`
+`Python` `Sports Analytics` `Match Data` `Tactical Analysis`
 
 </td>
 </tr>
@@ -92,7 +92,7 @@ Python analysis of federal contract awards in the Charleston, SC metro using USA
 | ✅ Complete | Government & Community Analytics — food insecurity + upward mobility dashboards |
 | ✅ Complete | Education-to-Employment Pipeline — honors thesis OLS regression |
 | ✅ Complete | Diamonds Price Analysis — statistical modeling across 49,835 observations |
-| 🔨 In Progress | Federal contract spending analysis in Python using USASpending.gov |
+| 🔨 Coming Soon | Arsenal Premier League Strategy Analysis — sports analytics |
 | 📁 Ongoing | More projects as I progress through my MSBA at Wake Forest |
 
 ---
