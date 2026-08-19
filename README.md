@@ -18,7 +18,7 @@
 
 ## About
 
-I'm a business analytics graduate student at Wake Forest University with a background in turning complex data into decisions that actually matter. Before graduate school I spent two years doing applied analytics for government and community organizations in Spartanburg, SC — mapping food insecurity across census tracts, assessing credit risk for small business loan applicants, and presenting findings directly to government officials whose policy decisions depended on the analysis being right.
+I'm a business analytics graduate student at Wake Forest University with a background in turning complex data into decisions that actually matter. Before graduate school I spent two years doing applied analytics for government and community organizations in Spartanburg, SC mapping food insecurity across census tracts, assessing credit risk for small business loan applicants, and presenting findings directly to government officials whose policy decisions depended on the analysis being right.
 
 I work in R, Python, SQL, Tableau, ArcGIS, and Power BI, and I'm drawn to roles where the analysis has real stakes: defense consulting, financial services, and government-adjacent work. **US citizen, clearance eligible.**
 
@@ -36,7 +36,7 @@ I work in R, Python, SQL, Tableau, ArcGIS, and Power BI, and I'm drawn to roles 
 
 **[Government & Community Analytics](https://github.com/jcurrietodd/government-community-analytics)**
 
-Geospatial dashboards mapping food insecurity and economic mobility across Spartanburg County — built for and presented directly to government stakeholders.
+Geospatial dashboards mapping food insecurity and economic mobility across Spartanburg County, built for and presented directly to government stakeholders.
 
 `R` `Tableau` `ArcGIS` `SQL` `Excel`
 
@@ -49,7 +49,7 @@ Geospatial dashboards mapping food insecurity and economic mobility across Spart
 
 **[Education-to-Employment Pipeline](https://github.com/jcurrietodd/education-employment-pipeline-thesis)**
 
-Honors thesis — 4-stage OLS regression framework analyzing how race and institutional type shape labor market outcomes, using IPEDS and BLS federal data.
+Honors thesis: 4-stage OLS regression framework analyzing how race and institutional type shape labor market outcomes, using IPEDS and BLS federal data.
 
 `RStudio` `OLS Regression` `IPEDS` `BLS`
 
@@ -64,7 +64,7 @@ Honors thesis — 4-stage OLS regression framework analyzing how race and instit
 
 **[Diamonds Price Analysis](https://github.com/jcurrietodd/Project-Repository-Decision-Log)**
 
-Semester-long statistical investigation of diamond pricing across 49,835 observations — covering descriptive statistics, probability modeling, hypothesis testing, and OLS regression. R² = 0.9014.
+Semester-long statistical investigation of diamond pricing across 49,835 observations, covering descriptive statistics, probability modeling, hypothesis testing, and OLS regression. R² = 0.9014.
 
 `Excel` `OLS Regression` `Probability` `Hypothesis Testing` `Statistics`
 
@@ -75,7 +75,7 @@ Semester-long statistical investigation of diamond pricing across 49,835 observa
 
 **Arsenal Premier League Strategy Analysis** *(Coming Soon)*
 
-Data-driven breakdown of the tactical and statistical factors behind Arsenal's Premier League title — analyzing squad performance, match data, and the decisions that ended a 20-year wait.
+Data-driven breakdown of the tactical and statistical factors behind Arsenal's Premier League title through analyzing squad performance, match data, and the decisions that ended a 20-year wait.
 
 `Python` `Sports Analytics` `Match Data` `Tactical Analysis`
 
