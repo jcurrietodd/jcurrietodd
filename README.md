@@ -1,108 +1,83 @@
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"><img src="assets/light/header.svg" alt="Joshua C. Todd. Business analyst, MSBA Wake Forest 2027. Analysis that has to hold up under scrutiny. North Carolina. US citizen, clearance eligible." width="100%"></picture>
 
-# Joshua C. Todd
-### Analytics for Decisions That Matter: Strategy · Finance · Government
-**MSBA Candidate · Wake Forest University · May 2027**
+[Portfolio site](https://jcurrietodd.github.io/) &nbsp;·&nbsp; [Résumé](Business_Analytics_Resume_JT.pdf) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/joshuactodd1) &nbsp;·&nbsp; [Email](mailto:toddj26@gmail.com) &nbsp;·&nbsp; [Video introduction ↗](https://www.youtube.com/watch?v=nPPuKVAcSIM)
 
-[![Portfolio Site](https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO_SITE-jcurrietodd.github.io-1e2327?style=for-the-badge&labelColor=E97627)](https://jcurrietodd.github.io/)
-![Status](https://img.shields.io/badge/Status-Actively%20Interviewing-2ea44f?style=for-the-badge)
-![Clearance](https://img.shields.io/badge/Clearance-Eligible-1e2327?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based-Winston--Salem%20%E2%86%92%20Charleston%20%2F%20Raleigh-blue?style=for-the-badge)
-[![Resume](https://img.shields.io/badge/📄_Resume-View-E97627?style=for-the-badge)](https://github.com/jcurrietodd/jcurrietodd/blob/main/Business_Analytics_Resume_JT.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuactodd1)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
+<br>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/label-about.svg"><img src="assets/light/label-about.svg" alt="About" width="100%"></picture>
 
----
+I'm a business analytics graduate student at Wake Forest University. Before graduate school I spent two years doing applied analytics for government and community organizations in Spartanburg, SC: mapping food insecurity across census tracts, assessing credit risk for small business loan applicants, and presenting findings to officials whose policy decisions depended on the analysis being right.
 
-## About
+In the MSBA I've moved into machine learning, building fraud models where the cut-off has to balance dollars saved against what a review team can actually handle. I'm drawn to work where the analysis has real stakes: defense and government consulting, financial services, and public-sector strategy.
 
-I'm a business analytics graduate student at Wake Forest University with a background in turning complex data into decisions that actually matter. Before graduate school I spent two years doing applied analytics for government and community organizations in Spartanburg, SC mapping food insecurity across census tracts, assessing credit risk for small business loan applicants, and presenting findings directly to government officials whose policy decisions depended on the analysis being right.
+<br>
 
-I work in R, Python, SQL, Tableau, ArcGIS, and Power BI, and I'm drawn to roles where the analysis has real stakes: defense consulting, financial services, and government-adjacent work. **US citizen, clearance eligible.**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/label-work.svg"><img src="assets/light/label-work.svg" alt="Selected work" width="100%"></picture>
 
----
+<a href="https://github.com/jcurrietodd/dfs-fraud-detection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/metric-dfs.svg"><img src="assets/light/metric-dfs.svg" alt="$2.9M projected annual net savings" width="230" align="right"></picture></a>
 
-## Portfolio
+### <sub>01</sub>&nbsp; [Digital Banking Fraud Detection](https://github.com/jcurrietodd/dfs-fraud-detection)
+*Wake Forest MSBA Analytics Challenge · 2026*
 
-<table>
-<tr>
-<td width="50%" valign="top">
+The lesson I keep coming back to from this one: the best model isn't the one with the highest AUC, it's the one the review team can actually keep up with. A digital bank's $200 sign-up bonus brought a fivefold jump in applications, and fraud came with it. Our four-person team compared five models on 192,142 applications and recommended piloting XGBoost at a 0.07 cut-off, which saves about $242K a month without overflowing the review queue.
 
-<a href="https://github.com/jcurrietodd/government-community-analytics">
-<img src="https://raw.githubusercontent.com/jcurrietodd/government-community-analytics/main/pillar-1-rewarding-work.png" width="100%">
-</a>
+<sub>PYTHON · XGBOOST · SCIKIT-LEARN · OPTUNA · COST MODELING</sub> &nbsp; [Read more →](https://github.com/jcurrietodd/dfs-fraud-detection)
 
-**[Government & Community Analytics](https://github.com/jcurrietodd/government-community-analytics)**
+<br clear="right">
 
-Geospatial dashboards mapping food insecurity and economic mobility across Spartanburg County, built for and presented directly to government stakeholders.
+<a href="https://github.com/jcurrietodd/government-community-analytics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/metric-gca.svg"><img src="assets/light/metric-gca.svg" alt="24 community indicators tracked across 3 levels" width="230" align="right"></picture></a>
 
-`R` `Tableau` `ArcGIS` `SQL` `Excel`
+### <sub>02</sub>&nbsp; [Government & Community Analytics](https://github.com/jcurrietodd/government-community-analytics)
+*Strategic Spartanburg · Community Data Analyst*
 
-</td>
-<td width="50%" valign="top">
+Geospatial dashboards mapping food insecurity and economic mobility across Spartanburg County, presented directly to government stakeholders to inform resource allocation.
 
-<a href="https://github.com/jcurrietodd/education-employment-pipeline-thesis">
-<img src="https://img.shields.io/badge/Honors_Thesis-Magna_Cum_Laude-8B0000?style=for-the-badge" width="100%">
-</a>
+<sub>R · TABLEAU · ARCGIS · SQL · EXCEL</sub> &nbsp; [Read more →](https://github.com/jcurrietodd/government-community-analytics)
 
-**[Education-to-Employment Pipeline](https://github.com/jcurrietodd/education-employment-pipeline-thesis)**
+<br clear="right">
 
-Honors thesis: 4-stage OLS regression framework analyzing how race and institutional type shape labor market outcomes, using IPEDS and BLS federal data.
+<a href="https://github.com/jcurrietodd/education-employment-pipeline-thesis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/metric-eep.svg"><img src="assets/light/metric-eep.svg" alt="20.3% graduation gap identified, p < 0.001" width="230" align="right"></picture></a>
 
-`RStudio` `OLS Regression` `IPEDS` `BLS`
+### <sub>03</sub>&nbsp; [Education-to-Employment Pipeline](https://github.com/jcurrietodd/education-employment-pipeline-thesis)
+*Honors thesis, Wofford College · Magna Cum Laude*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A four-stage OLS regression framework analyzing how race and institutional type shape labor market outcomes, built on IPEDS and BLS federal data.
 
-<a href="https://github.com/jcurrietodd/Project-Repository-Decision-Log">
-<img src="https://img.shields.io/badge/BAN_6005-Diamonds_Price_Analysis-C9A84C?style=for-the-badge" width="100%">
-</a>
+<sub>R · OLS REGRESSION · IPEDS · BLS</sub> &nbsp; [Read more →](https://github.com/jcurrietodd/education-employment-pipeline-thesis)
 
-**[Diamonds Price Analysis](https://github.com/jcurrietodd/Project-Repository-Decision-Log)**
+<br clear="right">
 
-Semester-long statistical investigation of diamond pricing across 49,835 observations, covering descriptive statistics, probability modeling, hypothesis testing, and OLS regression. R² = 0.9014.
+<a href="https://github.com/jcurrietodd/Project-Repository-Decision-Log"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/metric-dpa.svg"><img src="assets/light/metric-dpa.svg" alt="R squared of 0.9014 on 49,835 diamond prices" width="230" align="right"></picture></a>
 
-`Excel` `OLS Regression` `Probability` `Hypothesis Testing` `Statistics`
+### <sub>04</sub>&nbsp; [Diamonds Price Analysis](https://github.com/jcurrietodd/Project-Repository-Decision-Log)
+*Wake Forest MSBA · 2026*
 
-</td>
-<td width="50%" valign="top">
+A semester-long statistical investigation of diamond pricing: descriptive statistics, probability modeling, hypothesis testing and multiple OLS regression across 49,835 observations.
 
-<img src="https://img.shields.io/badge/Coming_Soon-Arsenal_Premier_League_Analysis-EF0107?style=for-the-badge&labelColor=063672" width="100%">
+<sub>EXCEL · OLS REGRESSION · PROBABILITY · HYPOTHESIS TESTING</sub> &nbsp; [Read more →](https://github.com/jcurrietodd/Project-Repository-Decision-Log)
 
-**Arsenal Premier League Strategy Analysis** *(Coming Soon)*
+<br clear="right">
 
-Data-driven breakdown of the tactical and statistical factors behind Arsenal's Premier League title through analyzing squad performance, match data, and the decisions that ended a 20-year wait.
+<a href="https://github.com/jcurrietodd/chosen-one-campaign"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/metric-cho.svg"><img src="assets/light/metric-cho.svg" alt="10 of 20 planets he reaches across six films" width="230" align="right"></picture></a>
 
-`Python` `Sports Analytics` `Match Data` `Tactical Analysis`
+### <sub>05</sub>&nbsp; [The Chosen One Campaign](https://github.com/jcurrietodd/chosen-one-campaign)
+*Campaign analytics dashboard · Star Wars API data · 2026*
 
-</td>
-</tr>
-</table>
+This one was just fun. The Star Wars API stores Anakin Skywalker and Darth Vader as two different people, so step one was convincing the data they're the same guy. From there I built a campaign dashboard that plans six movie posters in story order, from Tatooine to Endor: which planet each poster should feature, the story beat it sells, and every planet he reaches across the saga.
 
----
+<sub>SWAPI · DATA MERGING · INTERACTIVE DASHBOARD</sub> &nbsp; [Read more →](https://github.com/jcurrietodd/chosen-one-campaign)
 
-## What I'm Building
+<br clear="right">
 
-| Status | Project |
-|:---:|---|
-| ✅ Complete | Government & Community Analytics — food insecurity + upward mobility dashboards |
-| ✅ Complete | Education-to-Employment Pipeline — honors thesis OLS regression |
-| ✅ Complete | Diamonds Price Analysis — statistical modeling across 49,835 observations |
-| 🔨 Coming Soon | Arsenal Premier League Strategy Analysis — sports analytics |
-| 📁 Ongoing | More projects as I progress through my MSBA at Wake Forest |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/label-toolkit.svg"><img src="assets/light/label-toolkit.svg" alt="Toolkit" width="100%"></picture>
 
----
+**Analysis** &nbsp; Python (pandas, scikit-learn, XGBoost) · R · SQL · Excel  
+**Modeling** &nbsp; Gradient boosting · random forests · logistic and OLS regression · threshold selection  
+**Visualization** &nbsp; Tableau · Power BI · ArcGIS
 
-## Connect
+<br>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/label-contact.svg"><img src="assets/light/label-contact.svg" alt="Contact" width="100%"></picture>
 
-[![Email](https://img.shields.io/badge/toddj26%40wfu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:toddj26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fjoshuactodd1-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuactodd1)
-[![Location](https://img.shields.io/badge/📍_Winston--Salem%2C_NC_·_Charleston%2C_SC_·_Raleigh%2C_NC-lightgrey?style=flat-square)](#)
-
-</div>
+Open to full-time analyst roles in North Carolina after graduating in May 2027.  
+[toddj26@gmail.com](mailto:toddj26@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/joshuactodd1](https://linkedin.com/in/joshuactodd1) &nbsp;·&nbsp; [Résumé (PDF)](Business_Analytics_Resume_JT.pdf)
