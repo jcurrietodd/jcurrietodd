@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"><img src="assets/light/header.svg" alt="Joshua C. Todd. Business analyst, MSBA Wake Forest 2027. Analysis that has to hold up under scrutiny. North Carolina. US citizen, clearance eligible." width="100%"></picture>
 
-[Portfolio site](https://jcurrietodd.github.io/) &nbsp;·&nbsp; [Résumé](Business_Analytics_Resume_JT.pdf) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/joshuactodd1) &nbsp;·&nbsp; [Email](mailto:toddj26@gmail.com) &nbsp;·&nbsp; [Video introduction ↗](https://www.youtube.com/watch?v=nPPuKVAcSIM)
+[Portfolio site](https://jcurrietodd.github.io/) &nbsp;·&nbsp; [Résumé](Business_Analytics_Resume_JT.pdf) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/joshuactodd1) &nbsp;·&nbsp; [Email](mailto:toddj26@wfu.edu) &nbsp;·&nbsp; [Video introduction ↗](https://www.youtube.com/watch?v=nPPuKVAcSIM)
 
 <br>
 
@@ -80,4 +80,4 @@ This one was just fun. The Star Wars API stores Anakin Skywalker and Darth Vader
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/label-contact.svg"><img src="assets/light/label-contact.svg" alt="Contact" width="100%"></picture>
 
 Open to full-time analyst roles in North Carolina after graduating in May 2027.  
-[toddj26@gmail.com](mailto:toddj26@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/joshuactodd1](https://linkedin.com/in/joshuactodd1) &nbsp;·&nbsp; [Résumé (PDF)](Business_Analytics_Resume_JT.pdf)
+[toddj26@wfu.edu](mailto:toddj26@wfu.edu) &nbsp;·&nbsp; [linkedin.com/in/joshuactodd1](https://linkedin.com/in/joshuactodd1) &nbsp;·&nbsp; [Résumé (PDF)](Business_Analytics_Resume_JT.pdf)
